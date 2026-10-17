@@ -1,4 +1,4 @@
-# LaburIn (demo)
+# LaburoHoy (demo)
 
 Versión compilada para probar la app en el navegador: https://marc0p5.github.io/laburin-demo/
 
